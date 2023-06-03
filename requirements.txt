@@ -1,0 +1,6 @@
+colorzero==2.0
+comtypes==1.1.14
+gpiozero==1.6.2
+pypiwin32==223
+pyttsx3==2.90
+pywin32==306
